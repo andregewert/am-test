@@ -1,5 +1,6 @@
 # Test
 
 Test-Repository for am-git client.  
-Ã„nderung auf github.
-Noch eine Ã„nderung.
+Änderung auf github.
+Noch eine Änderung.
+Änderung auf dem Amiga.
