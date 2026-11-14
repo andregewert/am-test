@@ -1,12 +1,13 @@
 # Test
 
 Test-Repository for am-git client.  
-Änderung auf github.
-Noch eine Änderung.
-Änderung auf dem Amiga.
+Ã„nderung auf github.
+Noch eine Ã„nderung.
+Ã„nderung auf dem Amiga.
 
-Änderung auf main
-Änderung dummy-1
-Weitere Änderung
-Noch eine Änderung
-Commit-Test mit Umlauten
+- Ã„nderung auf main
+- Ã„nderung dummy-1
+- Weitere Ã„nderung
+- Noch eine Ã„nderung
+- Commit-Test mit Umlauten
+- Test
