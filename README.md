@@ -9,3 +9,4 @@ Noch eine Änderung.
 Änderung dummy-1
 Weitere Änderung
 Noch eine Änderung
+Commit-Test mit Umlauten
